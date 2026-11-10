@@ -1,0 +1,6 @@
+{
+  "name": "A Little World for Sahil",
+  "description": "An interactive, heartfelt birthday celebration experience crafted specially for Sahil with interactive animations, musical melodies, and thoughtful wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
